@@ -28,3 +28,6 @@ color: var(--branco-principal);
  .container {
     height: 100vh;
   }
+.container__botao {
+  background-color: var(--botao-azul);
+ }
